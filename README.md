@@ -3,7 +3,7 @@
 
 <p align="center">
   <img width="650" height="250" src="https://github.com/eashanadhikarla/MemoryDef/blob/main/images/demo.png">
-  <!-- <img width="500" height="250" src="images/demo.png"> -->
+  <!-- <img width="450" height="250" src="images/demo.png"> -->
 </p>
 
 ## Abstract
