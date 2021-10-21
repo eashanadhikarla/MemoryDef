@@ -2,7 +2,7 @@
 <p align="left""><b>Authors:</b><br/>- Eashan Adhikarla<br/>- Dan Luo<br/>- Dr. Brian D. Davison</p>
 
 <p align="center">
-  <img width="650" height="250" src="https://github.com/eashanadhikarla/MemoryDef/blob/main/images/demo.png">
+  <img width="500" height="250" src="https://github.com/eashanadhikarla/MemoryDef/blob/main/images/demo.png">
   <!-- <img width="400" height="250" src="images/demo.png"> -->
 </p>
 
