@@ -2,8 +2,8 @@
 <p align="left""><b>Authors:</b><br/>- Eashan Adhikarla<br/>- Dan Luo<br/>- Dr. Brian D. Davison</p>
 
 <p align="center">
-  <!-- <img width="750" height="300" src="https://github.com/eashanadhikarla/MemoryDef/images/workflow.png"> -->
-  <img width="500" height="250" src="images/demo.png">
+  <img width="750" height="300" src="https://github.com/eashanadhikarla/MemoryDef/images/workflow.png">
+  <!-- <img width="500" height="250" src="images/demo.png"> -->
 </p>
 
 ## Abstract
@@ -11,8 +11,8 @@ Many deep neural networks are susceptible to minute perturbations of images that
 
 ## Pipeline
 <p align="center">
-  <!-- <img width="750" height="300" src="https://github.com/eashanadhikarla/MemoryDef/images/workflow.png"> -->
-  <img width="750" height="300" src="images/workflow.png">
+  <img width="750" height="300" src="https://github.com/eashanadhikarla/MemoryDef/images/workflow.png">
+  <!-- <img width="750" height="300" src="images/workflow.png"> -->
 </p>
 
 ## Citation
