@@ -18,5 +18,12 @@ Many deep neural networks are susceptible to minute perturbations of images that
 ## Citation
 If you use this repo or find it useful, please consider citing:
 ```
-
+@misc{adhikarla2022memory,
+      title={Memory Defense: More Robust Classification via a Memory-Masking Autoencoder}, 
+      author={Eashan Adhikarla and Dan Luo and Brian D. Davison},
+      year={2022},
+      eprint={2202.02595},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
