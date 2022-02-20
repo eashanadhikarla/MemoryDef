@@ -1,4 +1,5 @@
 # Memory Defense: More Robust Classificationvia a Memory-Masking Autoencoder
+Paper: https://arxiv.org/pdf/2202.02595.pdf
 <p align="left""><b>Authors:</b><br/>- Eashan Adhikarla<br/>- Dan Luo<br/>- Dr. Brian D. Davison</p>
 
 <p align="center">
